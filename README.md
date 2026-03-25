@@ -22,4 +22,4 @@ After `git pull` or re-downloading: go to **Extensions**, click **Reload** on th
 
 ## Notes
 
-- This extension **hides elements** on the allowlisted domains only. For stronger blocking (e.g. image requests), pair with [uBlock Origin](https://github.com/gorhill/uBlock) and optionally [nepali-adblock-list](https://github.com/dallae/nepali-adblock-list).
+- This extension **hides elements** on the allowlisted domains only.
